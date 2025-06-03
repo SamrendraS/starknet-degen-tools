@@ -1,0 +1,6 @@
+node_modules/
+.env
+/dist
+output.txt
+src/script.sh
+script.sh
